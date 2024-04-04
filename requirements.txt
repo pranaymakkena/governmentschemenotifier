@@ -1,3 +1,0 @@
-Jsoup
-Jansi
-Apache HttpClient
