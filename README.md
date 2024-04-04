@@ -1,12 +1,10 @@
 # Government Scheme Notifier
 
-This project is a Government Scheme Notifier that fetches the latest scheme notifications from a website and sends email notifications to subscribed users. It is implemented in Java.
+This project is a Government Scheme Notifier that fetches the latest scheme notifications through backend logic and lets users know their eligible schemes based on their input. It is implemented in Java.
 
 ## Features
 
-- Scrapes scheme notifications from a website using Jsoup library.
-- Sends email notifications to subscribed users using JavaMail API.
-- Stores and compares notifications to notify users about new schemes.
+- Stores and compares data to notify users about new schemes.
 
 ## Prerequisites
 
