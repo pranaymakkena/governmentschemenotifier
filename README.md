@@ -16,11 +16,11 @@ This project is a Government Scheme Notifier that fetches the latest scheme noti
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/govt-scheme-notification-system.git
+   git clone https://github.com/pranaymakkena/governmentschemenotifier.git
 2. Change into the project directory:
 
     ```bash
-    cd govt-scheme-notification-system
+    cd governmentschemenotifier
 
 3. Build the project using Maven:
 
@@ -39,4 +39,4 @@ This project is a Government Scheme Notifier that fetches the latest scheme noti
 Run the main Java class to start the application.
 
 ```bash
-java -jar target/govt-scheme-notification-system.jar
+java -jar target/governmentschemenotifier.jar
